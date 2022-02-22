@@ -6,7 +6,7 @@ import os
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 from tensorflow.keras.layers import *
 from tensorflow.keras.models import *
-from train import ViT
+from model import ViT
 
 
 if __name__ == '__main__':
